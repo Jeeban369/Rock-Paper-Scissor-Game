@@ -1,6 +1,3 @@
-﻿# Rock-Paper-Scissor-Game
- 
-![Screenshot 2024-12-09 201821](https://github.com/user-attachments/assets/16a1e22c-f43b-4f94-ae28-2ea5df77bafc)
 # Rock✊ Paper🫱 Scissor✌️ Game in Go
 
 Welcome to the **Rock✊ Paper🫱 Scissor✌️ Game**, a simple, fun, and interactive CLI-based implementation written in Go! Play against the computer in a best-of-3 match and test your luck and strategy.
